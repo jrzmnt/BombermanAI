@@ -18,11 +18,11 @@ Our experiments show that our intelligent agent can be successfully implemented 
 ---
 ## Experiments
 
-<p style="text-align:center;"><img src="https://media.giphy.com/media/RJO38aflEBZu3Qaewq/giphy.gif" width="" height="240" align="middle"/>
+<img src="https://media.giphy.com/media/RJO38aflEBZu3Qaewq/giphy.gif" width="" height="240" align="middle"/>
 </br>*AI Bomberman Intelligent Agent using A-Star pathfinding*
-</p>
 
 
 
-<p style="text-align:center;"><img src="https://media.giphy.com/media/2wSddm0I8hy8oGKjhS/giphy.gif" width="" height="240" />
-</br>*AI Bomberman Intelligent Agent using BFS pathfinding*</p>
+
+<img src="https://media.giphy.com/media/2wSddm0I8hy8oGKjhS/giphy.gif" width="" height="240" />
+</br>*AI Bomberman Intelligent Agent using BFS pathfinding*

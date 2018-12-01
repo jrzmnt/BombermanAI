@@ -2,7 +2,8 @@
 
 **[This page is still a work in progress!]**
 
-This page contains a supplemental material to the work sent to the XV Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), by Juarez Monteiro, Roger Granada, Rafael C. Pinto and Rodrigo C. Barros. The full text can be found in [???](http://www...com).
+This page contains a supplemental material to the work sent to the XV Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), by Juarez Monteiro, Roger Granada, Rafael C. Pinto and Rodrigo C. Barros. The full text can be found in [ENIAC](http://portaldeconteudo.sbc.org.br/index.php/eniac) page. 
+A direct link to the paper can be found [here](http://portaldeconteudo.sbc.org.br/index.php/eniac/article/view/4430/4354). 
 
 ---
 ## Abstract

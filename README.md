@@ -15,8 +15,6 @@ Artificial Intelligence (AI) seeks to bring intelligent behavior for machines by
 
 [![AI Bomberman Intelligent Agent using A-Star pathfinding](https://media.giphy.com/media/RJO38aflEBZu3Qaewq/giphy.gif)](https://www.youtube.com/watch?v=jxsu8gOCfIk)</br>*AI Bomberman Intelligent Agent using A-Star pathfinding*
 
-[![AI Bomberman Intelligent Agent using BFS pathfinding](https://media.giphy.com/media/2wSddm0I8hy8oGKjhS/giphy.gif)](https://www.youtube.com/watch?v=NiAxx0FVayE)</br>*AI Bomberman Intelligent Agent using BFS pathfinding*
-
 ---
 ## How to cite
 

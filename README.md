@@ -13,12 +13,12 @@ Artificial Intelligence (AI) seeks to bring intelligent behavior for machines by
 ---
 ## Experiments
 [![AI Bomberman Intelligent Agent using A-Star pathfinding](https://img.youtube.com/vi/jxsu8gOCfIk/0.jpg)](https://www.youtube.com/watch?v=jxsu8gOCfIk)
-</br>*AI Bomberman Intelligent Agent using A-Star pathfinding*
+</br>*AI Bomberman Intelligent Agent using A-Star pathfinding (click on the image to check the video)*
 
 <!-- [![AI Bomberman Intelligent Agent using A-Star pathfinding](https://media.giphy.com/media/RJO38aflEBZu3Qaewq/giphy.gif)](https://www.youtube.com/watch?v=jxsu8gOCfIk) -->
 
 [![AI Bomberman Intelligent Agent using BFS pathfinding](https://img.youtube.com/vi/NiAxx0FVayE/0.jpg)](https://www.youtube.com/watch?v=NiAxx0FVayE)
-</br>*AI Bomberman Intelligent Agent using BFS pathfinding*
+</br>*AI Bomberman Intelligent Agent using BFS pathfinding (click on the image to check the video)*
 
 <!--[![AI Bomberman Intelligent Agent using BFS pathfinding](https://media.giphy.com/media/2wSddm0I8hy8oGKjhS/giphy.gif)](https://www.youtube.com/watch?v=NiAxx0FVayE) -->
 ---
